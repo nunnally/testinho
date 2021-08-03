@@ -3,3 +3,5 @@ const messageBox = document.querySelector("#message");
 messageBox.classList.add("rainbown");
 
 messageBox.innerHTML = message;
+
+// Testing...
