@@ -4,4 +4,4 @@ messageBox.classList.add("rainbown");
 
 messageBox.innerHTML = message;
 
-// Testing...
+// Testing... 2
